@@ -15,3 +15,6 @@ Sinopsis de la obra: La obra impresa es la compilación de los microcuentos gana
 ![Cartel promocional](@@baseUrl@@/assets/images/posts/cartel01.png)
 
 ![Cartel promocional](@@baseUrl@@/assets/images/posts/cartel02.png)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEzOTkwMDg4MF19
+-->
