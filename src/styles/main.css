@@ -1,0 +1,17 @@
+@tailwind base;
+
+a {
+  @apply text-blue-700;
+}
+
+a:hover {
+  @apply underline;
+}
+
+.description {
+  text-align: center
+}
+
+@tailwind components;
+
+@tailwind utilities;
